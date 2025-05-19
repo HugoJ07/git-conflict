@@ -1,2 +1,2 @@
 # git-conflict
-il va y avoir une erreur
+ici aussi il y aura des erreurs
